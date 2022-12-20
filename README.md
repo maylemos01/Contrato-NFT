@@ -1,4 +1,4 @@
-#Olá, pessoal
+# Olá, Pessoal
 
 este é meu primeiro repositório criado para compartilhar o contrato (ERC721) que desenvolvi para minha primeira coleção NFT!
 
