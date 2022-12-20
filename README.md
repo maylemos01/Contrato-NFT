@@ -1,5 +1,4 @@
-# Hello guys
-this is my first repository created to share the contract (ERC721) that I developed for my first NFT collection!
+#Olá, pessoal
+este é meu primeiro repositório criado para compartilhar o contrato (ERC721) que desenvolvi para minha primeira coleção NFT!
 
-To view the collection visit the link below
-https://opensea.io/collection/square-mind-blocks
+Para ver a coleção, visite o link abaixo https://opensea.io/collection/square-mind-blocks
