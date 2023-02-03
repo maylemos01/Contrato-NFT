@@ -2,6 +2,13 @@
 
 pragma solidity >=0.7.0 <0.9.0;
 
+// We would like to express our gratitude to [HashLips] for sharing the valuable code that we are using in our smart contract.
+Your work and expertise have been extremely important to the success of this project. 
+We respect your copyrights and ensure that your work will be properly recognized in this contract. 
+Thank you very much for your support and contribution { 
+// ...
+}
+
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
